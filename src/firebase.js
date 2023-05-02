@@ -8,12 +8,12 @@ import { getFirestore } from 'firebase/firestore'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAGhD-kIs7TUdha3swLAIk_UqgVqfFA6bQ",
-  authDomain: "messenger-app7.firebaseapp.com",
-  projectId: "messenger-app7",
-  storageBucket: "messenger-app7.appspot.com",
-  messagingSenderId: "949237300780",
-  appId: "1:949237300780:web:32650c6a4dc2d43eb71b89"
+  apiKey: "Your apiKey",
+  authDomain: "Your authDomain",
+  projectId: "Your projectId",
+  storageBucket: "Your storageBucket",
+  messagingSenderId: "Your messagingSenderId",
+  appId: "Your appId"
 };
 
 // Initialize Firebase
